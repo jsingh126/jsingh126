@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsingh126
+- 👋 Hi, I’m Jiendra Singh @jsingh126
 - 👀 I’m interested in Infra as a Code 
 - 🌱 I’m currently learning Azure Devops
 - 📫 Reach me on jsingh126@gmail.com
